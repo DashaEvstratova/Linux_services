@@ -1,9 +1,10 @@
+#!/usr/bin/env python3
+
 import os
 import socket
 import datetime
-import threading
 
-# данные для подключения
+
 host = '127.0.0.1'
 port = 1303
 
